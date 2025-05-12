@@ -1,0 +1,37 @@
+{
+    "id": "funmc",
+    "name": "FunMC",
+    "description": "Join the world of fun now!",
+    "website": "https://funmc.net/",
+    "store": "https://store.funmc.net/",
+    "addresses": [
+        "funmc.net"
+    ],
+    "primaryAddress": "play.funmc.net",
+    "primaryColor": "#1ED900",
+    "secondaryColor": "#EEB700",
+    "minecraftVersions": [
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.21.5",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "AS",
+        "SA",
+        "OC",
+        "AF"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Adventure",
+        "Parkour"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "nl"
+    ],
+    "crossplay": false
+}
